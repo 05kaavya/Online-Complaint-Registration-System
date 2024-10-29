@@ -11,7 +11,7 @@ customer satisfaction, and compliance with industry regulations.
 
 
 # Frontend
--- HTML
+- HTML
 CSS
 JS
 React
