@@ -12,14 +12,14 @@ customer satisfaction, and compliance with industry regulations.
 
 # Frontend
 - HTML
-CSS
-JS
-React
-Bootstrap
+- CSS
+- JS
+- React
+- Bootstrap
 
 # Backend
-Express
-Node
+- Express
+- Node
 
 # Database
 MongoDB
